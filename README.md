@@ -1,6 +1,4 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
+https://media-exp1.licdn.com/dms/image/C5616AQE2oMiSYvLB0Q/profile-displaybackgroundimage-shrink_200_800/0/1652722620739?e=1669248000&v=beta&t=DpHjJWy99IAz4GWu-ezSnfCiiPh9jE-oY_5VSlPtIfc
 ### Hi there 👋, I'm Saiful Kader
 #### Web Developer And WordPress Developer
 
