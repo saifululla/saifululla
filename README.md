@@ -1,4 +1,6 @@
-![Web Developer And WordPress Developer](https://media-exp1.licdn.com/dms/image/C5616AQE2oMiSYvLB0Q/profile-displaybackgroundimage-shrink_200_800/0/1652722620739?e=1658361600&v=beta&t=vyg9s4dSc81Zpu2WShk1HKTvtigdov2cC50ZFd_ZN3M)
+<div align="center">
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+</div>  
 ### Hi there 👋, I'm Saiful Kader
 #### Web Developer And WordPress Developer
 
